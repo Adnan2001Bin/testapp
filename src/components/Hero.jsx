@@ -14,10 +14,10 @@ const Hero = () => {
         </div>
 
         <p className="text-[#DF6951] font-bold text-lg uppercase tracking-wide">
-          Best Destinations around the world
+          Best Destinations
         </p>
         <h1 className="text-5xl md:text-6xl lg:text-[84px] font-bold font-display leading-tight text-[#181E4B]">
-          Travel, enjoy and live a new and full life
+          Travel, enjoy and live
         </h1>
         <p className="text-[#5E6282] text-base md:text-lg leading-relaxed max-w-md">
           Built Wicket longer admire do barton vanity itself do in it. Preferred
