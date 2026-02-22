@@ -10,10 +10,10 @@ const Destinations = () => {
     >
       <div className="text-center mb-16">
         <h3 className="text-[#5E6282] font-semibold text-lg uppercase">
-          Top Selling
+          Top Selling trip
         </h3>
         <h2 className="text-4xl md:text-5xl font-bold font-display text-[#181E4B] mt-2">
-          Top Destinations
+          Top Destinations places
         </h2>
       </div>
     </section>
