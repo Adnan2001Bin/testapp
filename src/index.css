@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Volkhov:wght@400;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Volkhov", serif;
+  --font-body: "Poppins", sans-serif;
+  --color-primary: #DF6951; 
+  --color-secondary: #F1A501;
+  --color-text-light: #5E6282;
+  --color-text-heading: #181E4B;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #181E4B;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Volkhov", serif;
+}
